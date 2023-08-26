@@ -12,7 +12,7 @@ class MyHomePage extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'HOLI',
+          'Hello',
         ),
       ),
     );
